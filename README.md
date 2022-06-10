@@ -7,11 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
     - [Screenshot](#screenshot)
     - [Links](#links)
-- [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -19,8 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - QR Code Challenge on Frontend Mentor.
 ### Screenshot
 
-![Screenshot](assets/images/Screenshot 2022-06-10 at 05-00-26 Frontend Mentor QR code component.png)
-
+<p>
+    <img src="./assets/images/Screenshot 2022-06-10 at 05-00-26 Frontend Mentor QR code component.png"   alt="Screenshot"/>
+</p>
 ### Links
 
 - Solution URL: [https://github.com/samuelorobosa/qr-code-component-main](https://github.com/samuelorobosa/qr-code-component-main)
