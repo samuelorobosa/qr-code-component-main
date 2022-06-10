@@ -19,7 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - QR Code Challenge on Frontend Mentor.
 ### Screenshot
 
-![](./assets/images/Screenshot 2022-06-10 at 05-00-26 Frontend Mentor QR code component.png)
+![Screenshot](./assets/images/Screenshot 2022-06-10 at 05-00-26 Frontend Mentor QR code component.png)
+
 ### Links
 
 - Solution URL: [https://github.com/samuelorobosa/qr-code-component-main](https://github.com/samuelorobosa/qr-code-component-main)
