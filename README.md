@@ -19,11 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - QR Code Challenge on Frontend Mentor.
 ### Screenshot
 
-![](assets/images/Screenshot 2022-06-10 at 05-00-26 Frontend Mentor QR code component.png)
+![](./assets/images/Screenshot 2022-06-10 at 05-00-26 Frontend Mentor QR code component.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/samuelorobosa/qr-code-component-main](https://github.com/samuelorobosa/qr-code-component-main)
+- Live Site URL: [https://qr-code-component-main-gules.vercel.app/](https://qr-code-component-main-gules.vercel.app/)
 
 ### Built with
 
